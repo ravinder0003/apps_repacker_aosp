@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ "$#" -ne 2 ];then
-	echo "Usage: $0 /path/to/system/ /path/to/vendor/"
+	echo "Usage: $0 /xiaomi/violet/dump/system/system/ /xiaomi/violet/dump/vendor/"
 	exit 1
 fi
 
